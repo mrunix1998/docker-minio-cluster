@@ -1,11 +1,20 @@
 ![Visits Badge](https://badges.pufler.dev/visits/mrunix1998/docker-minio-cluster)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mrunix1998/docker-minio-cluster)
+[![GitHub issues](https://img.shields.io/github/issues/mrunix1998/docker-minio-cluster)](https://github.com/mrunix1998/docker-minio-cluster/issues)
 [![GitHub stars](https://img.shields.io/github/stars/mrunix1998/docker-minio-cluster)](https://github.com/mrunix1998/docker-minio-cluster/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/mrunix1998/docker-minio-cluster)](https://github.com/mrunix1998/docker-minio-cluster/network)
-[![GitHub issues](https://img.shields.io/github/issues/mrunix1998/docker-minio-cluster)](https://github.com/mrunix1998/docker-minio-cluster/issues)
-![LinkedIn Follow](https://shields.io/badge/style-mrunix1998-black?logo=linkedin&label=LinkedIn&link=https://www.linkedin.com/in/mrunix1998)
+[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
-# docker-minio-cluster
+
+<a href="https://www.linkedin.com/in/mrunix1998/" style="text-align:center">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+
+# Docker-minio-cluster
 Minio Clustering on 4 nodes
 
 ## Cloning project 
