@@ -1,6 +1,6 @@
 #! /bin/bash
 # Programming and idea by : Mohammad Hossein Salehinezhad
-# GitLab : 
+# GitLab : https://github.com/mrunix1998/docker-minio-cluster.git 
 # Email : salehimohammad331@gmail.com
 # Last update : Wed, 23 Feb 2022 17:09:25 +0330
 # Minio v1.0.0 [Minio]
