@@ -1,3 +1,10 @@
+![Visits Badge](https://badges.pufler.dev/visits/mrunix1998/docker-minio-cluster)
+![GitHub last commit](https://img.shields.io/github/last-commit/mrunix1998/docker-minio-cluster)
+[![GitHub stars](https://img.shields.io/github/stars/mrunix1998/docker-minio-cluster)](https://github.com/mrunix1998/docker-minio-cluster/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mrunix1998/docker-minio-cluster)](https://github.com/mrunix1998/docker-minio-cluster/network)
+[![GitHub issues](https://img.shields.io/github/issues/mrunix1998/docker-minio-cluster)](https://github.com/mrunix1998/docker-minio-cluster/issues)
+![LinkedIn Follow](https://shields.io/badge/style-mrunix1998-black?logo=linkedin&label=LinkedIn&link=https://www.linkedin.com/in/mrunix1998)
+
 # docker-minio-cluster
 Minio Clustering on 4 nodes
 
@@ -46,4 +53,4 @@ cd /root/docker-minio-cluster/
 bash setup.sh up
 ```
 
-**After you running the setup.sh file, you can reach minio consule in the web with ** --> http://domain_name
+**After you running the setup.sh file, you can reach minio consule in the web with** --> http://domain_name
