@@ -63,3 +63,9 @@ bash setup.sh up
 ```
 
 **After you running the setup.sh file, you can reach minio consule in the web with** --> http://domain_name
+
+## Quick Terminate
+
+```bash
+bash setup.sh down
+```
