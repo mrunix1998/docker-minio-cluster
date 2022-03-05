@@ -13,7 +13,38 @@
   />
 </a>
 
+# Docker-settings
+For changing docker to use another path to save config and volumes follow the steps below:
 
+## Stop docker
+
+```bash
+systemctl stop docker.service docker.socket
+```
+
+## Change settings
+
+First create lib's for docker libraries
+
+```bash
+mkdir -p /mnt/docker/lib
+```
+Then edit docker service 
+
+```bash
+vim /lib/systemd/system/docker.service
+```
+
+```bash
+ExecStart=/usr/bin/dockerd -g /mnt/docker/lib -H fd:// --containerd=/run/containerd/containerd.sock
+```
+
+## Restart docker
+
+```bash
+systemctl daemon-reload
+systemctl start docker
+```
 # Docker-minio-cluster
 Minio Clustering on 4 nodes
 
